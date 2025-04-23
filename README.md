@@ -67,7 +67,7 @@ Le menu est l'élément principal de navigation. Il permet d'accéder rapidement
 
 </br>
 
-![Image : Bouton cartes](img/Acces_cartes_btn.png)
+![Image : Bouton cartes](img/acces_cartes_btn.png)
 **Cartes :**
 
 Cette section donne accès à l'ensemble des cartes disponibles. Elle permet de visualiser et de gérer les différentes cartes créées ou partagées avec l'utilisateur. Une zone de recherche rapide par thématique est également disponible, permettant de cibler directement la carte recherchée pour une navigation encore plus efficace.
