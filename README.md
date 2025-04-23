@@ -6,7 +6,7 @@ Initiation à l’utilisation de l'application cartographique vMap 2- Documentat
 
 ### Compte utilisateur
 
-Actuellement l'accès à l'application vMap nécessite obligatoirement un compte (il n'y a pas d'accès "public")
+Actuellement l'accès à l'application vMap2 nécessite obligatoirement un compte (il n'y a pas d'accès "public")
 
 **Procédure de création de compte :**
 Pour toute demande de compte, merci de bien vouloir envoyer un mail à l'adresse mail suivante : [sig@lunelagglo.fr](mailto:sig@lunelagglo.fr)
