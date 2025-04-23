@@ -19,4 +19,5 @@ Pour toute demande de compte, merci de bien vouloir envoyer un mail à l'adresse
 ### Connexion à vMap2 :
 Pour accéder à la plateforme, merci de taper ou copier/coller l’adresse suivante dans votre navigateur:
 [https://carto.lunelagglo.fr/](https://carto.lunelagglo.fr/)
+
 ⚠️ **Veillez à bien respecter les majuscules et minuscule de votre identifiant et mot de passe**
