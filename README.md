@@ -46,5 +46,6 @@ Les utilisateurs peuvent manipuler la zone observée via l'interface ou directem
 
 **4.	Informations géographiques et positionnement :**
 
-Informations géographiques relative à la carte visualisée, et coordonnées relatives au positionnement de la souris
+Informations géographiques relative à la carte visualisée, et coordonnées relatives au positionnement de la souris.
 
+![Interface vMap2](img/interface_vmap2.png)
