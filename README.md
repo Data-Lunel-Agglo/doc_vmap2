@@ -10,3 +10,13 @@ Actuellement l'accès à l'application vMap nécessite obligatoirement un compte
 
 **Procédure de création de compte :**
 Pour toute demande de compte, merci de bien vouloir envoyer un mail à l'adresse mail suivante : [sig@lunelagglo.fr](mailto:sig@lunelagglo.fr)
+
+1.	 Un formulaire de création de compte vous sera envoyé
+2.	 Remplir et retourner par mail ce formulaire dûment complété.
+
+⚠️ **L'Accès aux informations cadastrales devra être justifié**
+
+### Connexion à vMap2 :
+Pour accéder à la plateforme, merci de taper ou copier/coller l’adresse suivante dans votre navigateur:
+[https://carto.lunelagglo.fr/](https://carto.lunelagglo.fr/)
+⚠️ **Veillez à bien respecter les majuscules et minuscule de votre identifiant et mot de passe**
