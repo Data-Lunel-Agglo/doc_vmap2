@@ -4,7 +4,7 @@ Initiation à l’utilisation de l'application cartographique vMap 2- Documentat
 
 ## Comment accéder à vMap2?
 
-### Compte utilisateur
+### Compte utilisateur :
 
 Actuellement l'accès à l'application vMap2 nécessite obligatoirement un compte (il n'y a pas d'accès "public")
 
