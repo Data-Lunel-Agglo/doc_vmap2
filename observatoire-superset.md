@@ -1,4 +1,8 @@
-# Observatoire Superset
+---
+icon: chart-pie-simple
+---
+
+# Observatoire - Superset
 
 ## 1- Comment accéder à superset ?
 

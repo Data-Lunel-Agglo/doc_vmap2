@@ -1,4 +1,8 @@
-# Application cartographique vMap2
+---
+icon: earth-africa
+---
+
+# Application cartographique - vMap2
 
 Initiation à l’utilisation de l'application cartographique vMap 2- Documentation de prise en main
 
