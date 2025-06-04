@@ -13,4 +13,4 @@ Filtrer sur la couche de votre choix en choisissant parmi différents opérateur
 \
 
 
-<figure><img src="../../../img/espace_filtrer.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../img/espace_filtrer.png" alt="" width="367"><figcaption></figcaption></figure>

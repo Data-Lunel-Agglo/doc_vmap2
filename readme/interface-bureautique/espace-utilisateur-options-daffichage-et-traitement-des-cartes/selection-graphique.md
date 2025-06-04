@@ -18,5 +18,5 @@ Choisir une méthode de sélection spatiale :
 • Cercle : le premier point localise le centre du cercle et le dernier clic termine la construction de l’objet.
 ```
 
-<figure><img src="../../../img/espace_selection_graphique.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../img/espace_selection_graphique.png" alt="" width="366"><figcaption></figcaption></figure>
 

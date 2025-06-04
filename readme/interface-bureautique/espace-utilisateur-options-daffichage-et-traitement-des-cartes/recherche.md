@@ -12,5 +12,5 @@ Outil de localisation par saisie en fonction d'une base de données sélectionn�
 
 
 
-<figure><img src="../../../img/espace_recherche.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../img/espace_recherche.png" alt="" width="368"><figcaption></figcaption></figure>
 

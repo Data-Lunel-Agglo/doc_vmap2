@@ -16,5 +16,5 @@ Pour terminer la mesure, il faut double-cliquer sur la carte au moment du dernie
 \
 
 
-<figure><img src="../../../img/espace_outils_mesure.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../img/espace_outils_mesure.png" alt="" width="235"><figcaption></figcaption></figure>
 
