@@ -17,6 +17,8 @@ Pour demander un accès :
 * Complétez le formulaire avec soin et retournez-le par e-mail à la même adresse.
 
 > ⚠️ Assurez-vous que toutes les informations fournies sont exactes pour éviter tout retard dans le processus.
+>
+>
 
 ### Connexion à Superset
 
@@ -26,4 +28,6 @@ Une fois votre compte créé :
 * Entrez votre identifiant et mot de passe. Veillez à respecter les majuscules et minuscules.
 
 > ⚠️ L'application nécessite impérativement un compte utilisateur. Il n'y a pas d'accès public à Superset.
+
+<figure><img src="../.gitbook/assets/connexion_superset.png" alt=""><figcaption></figcaption></figure>
 

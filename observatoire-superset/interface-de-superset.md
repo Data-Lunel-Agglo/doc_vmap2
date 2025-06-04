@@ -4,6 +4,8 @@ icon: window
 
 # Interface de Superset
 
+<figure><img src="../.gitbook/assets/interface_superset.png" alt=""><figcaption></figcaption></figure>
+
 Une fois connecté à Superset, l'utilisateur est accueilli par une interface claire et fonctionnelle :
 
 ### 1) Barre de navigation
