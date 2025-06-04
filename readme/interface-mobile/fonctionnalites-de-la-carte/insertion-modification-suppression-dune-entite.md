@@ -23,7 +23,7 @@ Ensuite, vous pouvez :&#x20;
 
 Dans le menu du haut cliquer sur ℹ️ pour éventuellement choisir la couche que vous souhaitez interroger en cliquant sur un objet
 
-<figure><img src="../../../.gitbook/assets/vmap_mobile_interroger.PNG" alt="" width="188"><figcaption></figcaption></figure>
+<div><figure><img src="../../../.gitbook/assets/vmap_mobile_interroger (1).PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/vmap_mobile_interroger.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### 3) Modification
 
