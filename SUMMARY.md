@@ -2,7 +2,8 @@
 
 * [Application cartographique - vMap2](README.md)
   * [Interface bureautique](readme/interface-bureautique/README.md)
-    * [Accès aux cartes](readme/interface-bureautique/acces-aux-cartes.md)
+    * [Carthothèque](readme/interface-bureautique/acces-aux-cartes.md)
+    * [Gestion de la carte](readme/interface-bureautique/acces-aux-cartes-1.md)
     * [Espace utilisateur, options d'affichage et traitement des cartes](readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/README.md)
       * [Espace utilisateur](readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/espace-utilisateur.md)
       * [Aide](readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/aide.md)
