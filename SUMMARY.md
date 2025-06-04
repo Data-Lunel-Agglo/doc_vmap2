@@ -15,4 +15,6 @@
       * [Comparaison de cartes](readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/comparaison-de-cartes.md)
   * [Interface mobile](readme/interface-mobile.md)
 * [img](img/README.md)
-* [Observatoire - Superset](observatoire-superset.md)
+* [Observatoire - Superset](observatoire-superset/README.md)
+  * [Interface de Superset](observatoire-superset/interface-de-superset.md)
+  * [Exemple de structure d'un tableau de bord](observatoire-superset/exemple-de-structure-dun-tableau-de-bord.md)

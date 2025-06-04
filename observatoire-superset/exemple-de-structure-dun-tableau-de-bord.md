@@ -1,51 +1,8 @@
 ---
-icon: chart-pie-simple
+icon: gauge
 ---
 
-# Observatoire - Superset
-
-## 1- Comment accéder à superset ?
-
-Afin d'utiliser Superset, les utilisateurs doivent suivre une procédure de création de compte et s'assurer d'avoir des identifiants valides
-
-### Création de compte
-
-Pour demander un accès :
-
-* Envoyez un e-mail à l'adresse suivante : [sig@lunelagglo.fr](mailto:sig@lunelagglo.fr)
-* Un formulaire de création de compte vous sera transmis par retour de mail.
-* Complétez le formulaire avec soin et retournez-le par e-mail à la même adresse.
-
-> ⚠️ Assurez-vous que toutes les informations fournies sont exactes pour éviter tout retard dans le processus.
-
-### Connexion à Superset
-
-Une fois votre compte créé :
-
-* Copiez-collez l'URL suivante dans votre navigateur : [https://observatoire.lunelagglo.fr/](https://observatoire.lunelagglo.fr/)
-* Entrez votre identifiant et mot de passe. Veillez à respecter les majuscules et minuscules.
-
-> ⚠️ L'application nécessite impérativement un compte utilisateur. Il n'y a pas d'accès public à Superset.
-
-## 2- Interface de Superset :
-
-Une fois connecté à Superset, l'utilisateur est accueilli par une interface claire et fonctionnelle :
-
-### 1) Barre de navigation
-
-* **Bouton "Dashboards" :** Placé à côté du logo, il redirige directement vers la liste des tableaux de bord disponibles.
-* **Paramètres :** Situé à droite, ce bouton donne accès aux options de configuration utilisateur ou aux paramètres avancés de l'application.
-* **Langue :** Juste à côté des paramètres, cet élément permet de sélectionner la langue d'affichage de l'interface en fonction des préférences de l'utilisateur.
-
-### 2) Tableaux de bord récents
-
-Une section affichant les tableaux de bord récemment consultés ou modifiés pour un accès rapide.
-
-### 3) Graphiques récents
-
-Cette section affiche les graphiques récemment modifiés ou ajoutés par les administrateurs. Les utilisateurs peuvent les consulter pour visualiser les dernières mises à jour et analyses préparées.
-
-## 3- Exemple de structure d'un tableau de bord :
+# Exemple de structure d'un tableau de bord
 
 1. Menu de navigation
 2. Filtres
