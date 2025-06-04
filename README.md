@@ -1,7 +1,2 @@
----
-hidden: true
----
+# Documentation SIG / Data
 
-# img
-
-Images associées à la documentation

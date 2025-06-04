@@ -1,7 +1,6 @@
 # Table of contents
 
-* [img](README.md)
-* [Documentation SIG / Data](documentation-sig-data.md)
+* [Documentation SIG / Data](README.md)
 * [Application cartographique - vMap2](<README (1).md>)
   * [Interface bureautique](readme/interface-bureautique/README.md)
     * [Carthothèque](readme/interface-bureautique/acces-aux-cartes.md)
@@ -32,3 +31,4 @@
 * [Observatoire - Superset](observatoire-superset/README.md)
   * [Interface de Superset](observatoire-superset/interface-de-superset.md)
   * [Exemple de structure d'un tableau de bord](observatoire-superset/exemple-de-structure-dun-tableau-de-bord.md)
+* [img](<README (2).md>)
