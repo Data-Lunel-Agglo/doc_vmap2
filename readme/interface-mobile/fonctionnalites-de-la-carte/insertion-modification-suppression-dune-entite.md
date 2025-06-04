@@ -19,11 +19,29 @@ Ensuite, vous pouvez :&#x20;
 
 <div><figure><img src="../../../.gitbook/assets/vmap_mobile_saisie.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/vmap_mobile_formulaire.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
-### 2) Modification
+### 2) Interrogation
+
+Dans le menu du haut cliquer sur ℹ️ pour éventuellement choisir la couche que vous souhaitez interroger en cliquant sur un objet
+
+<figure><img src="../../../.gitbook/assets/vmap_mobile_interroger.PNG" alt="" width="188"><figcaption></figcaption></figure>
+
+### 3) Modification
+
+Après avoir interrogé une entité, vous pouvez cliquer sur le menu  " : "&#x20;
 
 
 
-### 3) Suppression
+1. cliquer sur **Modifier** 📝 pour modifier les informations saisies&#x20;
+
+<div><figure><img src="../../../.gitbook/assets/vmap_mobile_option_entite.PNG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/vmap_mobile_modifier.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+
+2. **Redéfinir la géométrie 📌**pour modifier ou déplacer la géométrie&#x20;
+
+### 4) Suppression
 
 
+
+Après avoir interrogé une entité, vous pouvez cliquer sur le menu  " : " et cliquer sur supprimer 🗑️
+
+<figure><img src="../../../.gitbook/assets/vmap_mobile_option_entite.PNG" alt="" width="188"><figcaption></figcaption></figure>
 

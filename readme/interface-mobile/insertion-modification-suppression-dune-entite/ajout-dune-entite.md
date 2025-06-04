@@ -1,2 +1,0 @@
-# Ajout d'une entité
-
