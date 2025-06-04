@@ -13,6 +13,7 @@
       * [Requêteur](readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/requeteur.md)
       * [Impression](readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/impression.md)
       * [Comparaison de cartes](readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/comparaison-de-cartes.md)
+    * [Module cadastre](readme/interface-bureautique/module-cadastre.md)
   * [Interface mobile](readme/interface-mobile.md)
 * [img](img/README.md)
 * [Observatoire - Superset](observatoire-superset/README.md)
