@@ -12,7 +12,7 @@ icon: gauge
 4. Onglets principaux
 5. Menus d'actions
 
-### 1) Menu de navigation :
+### 1) Menu de navigation
 
 Le menu de navigation de Superset est l'élément principal qui permet aux utilisateurs de se déplacer dans l'application et d'accéder rapidement à leurs outils et fonctionnalités préférés.
 
@@ -30,7 +30,7 @@ Vous pouvez affiner votre recherche en utilisant différents critères (Nom, Eta
 
 <figure><img src="../.gitbook/assets/recherche_dashboard.png" alt=""><figcaption></figcaption></figure>
 
-### 2) Filtres :
+### 2) Filtres
 
 Superset propose des filtres interactifs pour explorer les données de manière ciblée. Vous pouvez facilement sélectionner une année et une commune spécifiques afin de visualiser les graphiques et analyses correspondants.
 
@@ -56,15 +56,15 @@ Lorsqu'un filtre est appliqué, il est important de noter que son effet dépend 
 
 <figure><img src="../.gitbook/assets/filtre_applique_2.png" alt=""><figcaption></figcaption></figure>
 
-### 3) Titre du tableau de bord :
+### 3) Titre du tableau de bord
 
 Le titre du tableau de bord permet aux utilisateurs de rapidement identifier le contenu ou l'objectif du tableau.
 
-### 4) Onglets principaux :
+### 4) Onglets principaux
 
 Les onglets principaux permettent de diviser le tableau de bord en sections. Chaque onglet peut contenir des graphiques spécifiques ou des catégories d'analyses.
 
-### 5) Menu d'actions :
+### 5) Menu d'actions
 
 **Menu d'actions des graphiques :** Ce menu, situé en haut à droite de chaque graphique, permet aux utilisateurs d'interagir directement avec un graphique spécifique (forcer l'actualisation, passer en plein écran, partager, télécharger)
 
