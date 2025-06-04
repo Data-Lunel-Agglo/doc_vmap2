@@ -17,13 +17,11 @@ Les utilisateurs peuvent manipuler la zone observée via l'interface ou directem
 
 Informations géographiques relative à la carte visualisée, et coordonnées relatives au positionnement de la souris.
 
-\
-
+<figure><img src="../img/interface_vmap2.png" alt=""><figcaption></figcaption></figure>
 
 ### 1) Accès à l'ensemble des cartes&#x20;
 
-\
-
+<figure><img src="../img/acces_ensemble_carte.png" alt=""><figcaption></figcaption></figure>
 
 **Menu :**
 
