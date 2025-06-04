@@ -12,6 +12,7 @@
         * [Recherche](documentation-sig-data/readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/recherche.md)
         * [Outils de mesure](documentation-sig-data/readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/outils-de-mesure.md)
         * [Sélection graphique](documentation-sig-data/readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/selection-graphique.md)
+        * [Insertion/modification/suppression d'une entité](readme/readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/insertion-modification-suppression-dune-entite.md)
         * [Filtrer](documentation-sig-data/readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/filtrer.md)
         * [Requêteur](documentation-sig-data/readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/requeteur.md)
         * [Impression](documentation-sig-data/readme/interface-bureautique/espace-utilisateur-options-daffichage-et-traitement-des-cartes/impression.md)
