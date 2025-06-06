@@ -15,4 +15,4 @@ Cette section est divisée en deux onglets : **Arbre** et **Légende :**\
 
 * Légende : Cet onglet détaille les légendes des différents objets des couches, fournissant une interprétation visuelle et descriptive des éléments présents sur la carte.
 
-<figure><img src="../../../img/acces_couches.png" alt="" width="241"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/acces_couches.png" alt="" width="241"><figcaption></figcaption></figure>

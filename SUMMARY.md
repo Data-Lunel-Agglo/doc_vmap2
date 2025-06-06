@@ -1,7 +1,6 @@
 # Table of contents
 
-* [README](README.md)
-* [Documentation SIG / Data](documentation-sig-data/README.md)
+* [Documentation SIG / Data](README.md)
   * [Application cartographique - vMap2](documentation-sig-data/application-cartographique-vmap2/README.md)
     * [Interface bureautique](documentation-sig-data/application-cartographique-vmap2/interface-bureautique/README.md)
       * [Carthothèque](documentation-sig-data/carto-vmap2/interface-bureautique/acces-aux-cartes.md)

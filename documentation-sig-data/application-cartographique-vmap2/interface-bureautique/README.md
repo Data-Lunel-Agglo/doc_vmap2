@@ -1,2 +1,6 @@
+---
+icon: window
+---
+
 # Interface bureautique
 

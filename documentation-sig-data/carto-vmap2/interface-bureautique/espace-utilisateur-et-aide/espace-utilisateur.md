@@ -4,7 +4,7 @@ icon: user
 
 # Espace utilisateur
 
-<figure><img src="../../../../img/espace_profil_utilisateur_btn.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/espace_profil_utilisateur_btn.png" alt=""><figcaption></figcaption></figure>
 
 **Profil utilisateur :**
 
@@ -14,4 +14,4 @@ Modifier votre mot de passe.
 \
 
 
-<figure><img src="../../../../img/espace_profil_utilisateur.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/espace_profil_utilisateur.png" alt=""><figcaption></figcaption></figure>
