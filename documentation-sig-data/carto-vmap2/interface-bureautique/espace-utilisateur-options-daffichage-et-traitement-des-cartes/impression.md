@@ -4,7 +4,7 @@ icon: print
 
 # Impression
 
-<figure><img src="../../../../img/espace_outils_impressions_btn.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/espace_outils_impressions_btn.png" alt=""><figcaption></figcaption></figure>
 
 **Outils d'impression :**
 

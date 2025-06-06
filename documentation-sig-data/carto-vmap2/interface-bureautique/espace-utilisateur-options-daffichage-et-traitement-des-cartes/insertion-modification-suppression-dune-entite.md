@@ -6,7 +6,7 @@ icon: pen-to-square
 
 ### 1) Insertion
 
-<figure><img src="../../../../img/espace_selection_graphique_btn.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/espace_selection_graphique_btn.png" alt=""><figcaption></figcaption></figure>
 
 Dans l'outil de sélection, sélectionner la couche sur laquelle on souhaite réaliser de la saisie.&#x20;
 

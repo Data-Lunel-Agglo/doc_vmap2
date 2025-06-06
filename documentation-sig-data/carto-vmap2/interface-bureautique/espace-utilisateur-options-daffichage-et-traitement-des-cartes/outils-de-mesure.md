@@ -4,7 +4,7 @@ icon: ruler-horizontal
 
 # Outils de mesure
 
-<figure><img src="../../../../img/espace_outils_mesure_btn.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/espace_outils_mesure_btn.png" alt=""><figcaption></figcaption></figure>
 
 **Outils de mesure :**
 
@@ -16,5 +16,5 @@ Une infobulle affiche alors avec la longueur au fur et à mesure.\
 **Pour terminer la mesure, il faut double-cliquer sur la carte au moment du dernier point.**\
 
 
-<figure><img src="../../../../img/espace_outils_mesure.png" alt="" width="235"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/espace_outils_mesure.png" alt="" width="235"><figcaption></figcaption></figure>
 
