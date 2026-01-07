@@ -10,7 +10,7 @@ Cliquer sur le bouton Relevé de propriété, puis sélectionner la parcelle à 
 
 ou via le module cadastre complet :
 
-<figure><img src="../../../../.gitbook/assets/vmap_cadastre_releve_propriete.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/vmap_cadastre_releve_propriete.png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

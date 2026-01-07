@@ -10,7 +10,7 @@ Cliquer sur le bouton Fiche d'urbanisme, puis cliquer sur la parcelle dont on so
 
 ou via le module cadastre complet :
 
-<figure><img src="../../../../.gitbook/assets/vmap_cadastre_fiche_urbanisme.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/vmap_cadastre_fiche_urbanisme.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Les éléments constitutifs de la fiche d”urbanisme sont préalablement configurés par l”administrateur de l”application vMap.&#x20;
 
