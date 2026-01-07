@@ -1,0 +1,3 @@
+# Propriétaires des locaux
+
+Un rapport Excel est généré. Il liste pour chaque parcelle sélectionnée, l'intégralité des informations fiscale des dont les comptes propriétaires, les descriptifs fiscaux des locaux, les types, natures et occupations…
