@@ -10,8 +10,4 @@ icon: circle-info
 
 Accéder à la documentation ainsi qu'à diverses informations concernant Vmap.
 
-\
-
-
 <figure><img src="../../../../.gitbook/assets/espace_aide.png" alt="" width="326"><figcaption></figcaption></figure>
-
