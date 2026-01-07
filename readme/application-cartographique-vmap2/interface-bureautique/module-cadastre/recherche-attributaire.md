@@ -78,12 +78,33 @@ L'opérateur sélectionne la commune puis le propriétaire de la parcelle. Un mo
 
 ⚠️ Il faut saisir un minimum de 3 caractères pour que le module de recherche puisse fonctionner.
 
+⚠️ La recherche se fait à la fois sur le nom et le prénom du propriétaire.
+
 <figure><img src="../../../../.gitbook/assets/vmap_cadastre_recherche_parcelle_proprietaire.png" alt="" width="375"><figcaption></figcaption></figure>
 
 La liste des propriétaires de la commune s”affiche. L'opérateur sélectionne ensuite le ou les comptes du propriétaire sélectionné. La case à cocher ✔️ permet de sélectionner toutes les comptes.&#x20;
 
-La case à cocher ✔️ permet ensuite de sélectionner une ou plusieurs parcelles.&#x20;
+Il sélectionne ensuite la ou les parcelle (s) dont il cherche à extraire les informations. La case à cocher ✔️ permet ensuite de sélectionner une ou plusieurs parcelles.&#x20;
 
 ℹ️ Un formulaire permet la saisie de la référence ou d'une partie de la référence de la parcelle pour en filtrer la liste.
 
 📰 Une fois sélectionnée(s), la(es) parcelles(s) peut(vent) être utilisée pour générer un rapport.
+
+***
+
+#### **La recherche par bâti**
+
+L'opérateur sélectionne la commune puis le propriétaire de la parcelle. Un module de recherche permet de filtrer la liste des propriétaires en saisissant le nom ou une partie du nom du propriétaire.
+
+⚠️ Il faut saisir un minimum de 3 caractères pour que le module de recherche puisse fonctionner.
+
+⚠️ La recherche se fait à la fois sur le nom et le prénom du propriétaire.
+
+La liste des propriétaires de la commune s'affiche. L'opérateur sélectionne ensuite le ou les comptes du propriétaire sélectionné. La case à cocher ✔️ permet de sélectionnes un ou plusieurs comptes.&#x20;
+
+L'opérateur sélectionne ensuite dans la liste le bâti associés au(x) compte(s) sélectionné(s). Il sélectionne ensuite le ou les invariant (s) (numéro unique attribué à chaque logement), puis la ou les parcelle (s) dont il cherche à extraire les informations. La case à cocher ✔️ permet ensuite de sélectionner une ou plusieurs parcelles.&#x20;
+
+ℹ️ Un formulaire permet la saisie de la référence ou d'une partie de la référence de la parcelle pour en filtrer la liste.
+
+📰 Une fois sélectionnée(s), la(es) parcelles(s) peut(vent) être utilisée pour générer un rapport.
+
