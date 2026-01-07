@@ -23,6 +23,7 @@
         * [Fiche d'urbanisme](readme/application-cartographique-vmap2/interface-bureautique/module-cadastre/fiche-durbanisme.md)
         * [Recherche attributaire](readme/application-cartographique-vmap2/interface-bureautique/module-cadastre/recherche-attributaire.md)
         * [Recherche cartographique](readme/application-cartographique-vmap2/interface-bureautique/module-cadastre/recherche-cartographique.md)
+        * [Générer un rapport](readme/application-cartographique-vmap2/interface-bureautique/module-cadastre/generer-un-rapport.md)
     * [Interface mobile](documentation-sig-data/application-cartographique-vmap2/interface-mobile/README.md)
       * [Cartothèque](documentation-sig-data/application-cartographique-vmap2/interface-mobile/cartotheque.md)
       * [Gestion de la carte](documentation-sig-data/application-cartographique-vmap2/interface-mobile/gestion-de-la-carte.md)
