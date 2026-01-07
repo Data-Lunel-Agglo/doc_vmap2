@@ -28,7 +28,7 @@ Après avoir indiqué la commune comme objet recherché, l'opérateur sélection
 
 ### La recherche de section(s)
 
-Après avoir indiqué la section comme objet recherché, l'opérateur sélectionne dans la liste déroulante, la commune de la section recherchée. Les sections s”affichent sous forme tabulaire. L”opérateur sélectionne la ou les sections dont il veut extraire les informations. La case à cocher ✔️ permet de sélectionner toutes les sections du tableau.
+Après avoir indiqué la section comme objet recherché, l'opérateur sélectionne dans la liste déroulante, la commune de la section recherchée. Les sections s”affichent sous forme tabulaire. L”opérateur sélectionne la ou les sections dont il veut extraire les informations. La case à cocher ✔️ permet de sélectionner une ou plusieurs sections du tableau.
 
 ℹ️ Un formulaire permet la saisie d'une section pour en filtrer la liste.
 
@@ -38,9 +38,9 @@ Après avoir indiqué la section comme objet recherché, l'opérateur sélection
 
 ### La recherche de lieu(x) dit(s)
 
-Après avoir indiqué le lieu dit comme objet recherché, l'opérateur sélectionne dans la liste déroulante la commune du lieu dit. Les lieux dits s”affichent sous forme de liste. L”opérateur sélectionne le ou les lieux dits dont il veut extraire les informations. La case à cocher ✔️ permet de sélectionner toutes les lieux dits. \
+Après avoir indiqué le lieu dit comme objet recherché, l'opérateur sélectionne dans la liste déroulante la commune du lieu dit. Les lieux dits s'affichent sous forme de liste. L”opérateur sélectionne le ou les lieux dits dont il veut extraire les informations. La case à cocher ✔️ permet de sélectionner un ou plusieurs lieux dits. \
 \
-ℹ️ Un formulaire permet la saisie du nom ou d'une partie du nom d”un lieu dit pour en filtrer la liste.
+ℹ️ Un formulaire permet la saisie du nom ou d'une partie du nom d'un lieu dit pour en filtrer la liste.
 
 ***
 
@@ -54,8 +54,36 @@ Après avoir indiqué la parcelle comme objet recherché, l'opérateur sélectio
 
 #### **La recherche de parcelles par section**
 
-L'opérateur sélectionne la commune puis la section d”appartenance de la parcelle. La liste des parcelles s'affichent sous forme tabulaire. L'opérateur sélectionne la ou les parcelles dont il veut extraire les informations. La case à cocher ✔️ permet de sélectionner toutes les parcelles.
+L'opérateur sélectionne la commune puis la section d”appartenance de la parcelle. La liste des parcelles s'affichent sous forme tabulaire. L'opérateur sélectionne la ou les parcelles dont il veut extraire les informations. La case à cocher ✔️ permet de sélectionner une ou plusieurs parcelles.
 
 ℹ️ Un formulaire permet la saisie de la référence ou d'une partie de la référence de la parcelle pour en filtrer la liste.
 
 <figure><img src="../../../../.gitbook/assets/vmap_cadastre_recherche_parcelle_section.png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### **La recherche par adresse DGFIP**
+
+L'opérateur sélectionne la commune puis la voie d'appartenance de la parcelle.&#x20;
+
+ℹ️ Un formulaire permet la saisie du nom ou d'une partie du nom de la voie pour en filtrer la liste. Idem pour les parcelles de la voie
+
+📋La liste « Adresse » permet ensuite de sélectionner une ou toutes les adresses de la voie sélectionnée.
+
+La liste des parcelles s'affichent ensuite sous forme tabulaire. L'opérateur sélectionne la ou les parcelles dont il veut extraire les informations.&#x20;
+
+<figure><img src="../../../../.gitbook/assets/vmap_cadastre_recherche_parcelle_adresse.png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### **La recherche par propriétaire**
+
+L'opérateur sélectionne la commune puis le propriétaire de la parcelle. Un module de recherche permet de filtrer la lister des propriétaires en saisissant le nom ou une partie du nom du propriétaire.
+
+⚠️ Il faut saisir un minimum de 3 caractères pour que le module de recherche puisse fonctionner.
+
+<figure><img src="../../../../.gitbook/assets/vmap_cadastre_recherche_parcelle_proprietaire.png" alt="" width="375"><figcaption></figcaption></figure>
+
+La liste des propriétaires de la commune s”affiche. L'opérateur sélectionne ensuite le ou les comptes du propriétaire sélectionné. La case à cocher ✔️ permet de sélectionner toutes les comptes.&#x20;
+
+La case à cocher ✔️ permet ensuite de sélectionner une ou plusieurs parcelles.&#x20;
+
+ℹ️ Un formulaire permet la saisie de la référence ou d'une partie de la référence de la parcelle pour en filtrer la liste.
+
+📰 Une fois sélectionnée(s), la(es) parcelles(s) peut(vent) être utilisée pour générer un rapport.
