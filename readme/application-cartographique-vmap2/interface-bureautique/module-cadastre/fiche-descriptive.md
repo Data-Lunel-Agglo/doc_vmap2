@@ -1,5 +1,5 @@
 ---
-icon: building-user
+icon: building-memo
 ---
 
 # Fiche descriptive
