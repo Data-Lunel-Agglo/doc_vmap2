@@ -23,10 +23,10 @@ Plusieurs rapports relatifs aux parcelles sont livrés avec l'application vMap :
 * [Fiche d'urbanisme](../fiche-durbanisme.md)
 * Autres rapports
   * [Toutes les informations](toutes-les-informations.md)
-  * Emprise bâties/non bâties
-  * Subdivisions fiscales
-  * Locaux
-  * Propriétaires
-  * Propriétaires des locaux
+  * [Emprise bâties/non bâties](emprise-baties-non-baties.md)
+  * [Subdivisions fiscales](subdivisions-fiscales.md)
+  * [Locaux](locaux.md)
+  * [Propriétaires](proprietaires.md)
+  * [Propriétaires des locaux](proprietaires-des-locaux.md)
 
 ⚠️ Certains rapports sont relatifs à une et une seule parcelle, alors que d”autres sont relatifs à plusieurs parcelles sélectionnées et ajoutées au panier.
