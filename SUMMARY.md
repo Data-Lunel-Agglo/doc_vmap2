@@ -31,6 +31,7 @@
           * [Propriétaires](readme/application-cartographique-vmap2/interface-bureautique/module-cadastre/generer-un-rapport/proprietaires.md)
           * [Propriétaires des locaux](readme/application-cartographique-vmap2/interface-bureautique/module-cadastre/generer-un-rapport/proprietaires-des-locaux.md)
       * [Questions fréquentes](readme/application-cartographique-vmap2/interface-bureautique/questions-frequentes/README.md)
+        * [Quelle règle pour communiquer des données cadastrales ?](readme/application-cartographique-vmap2/interface-bureautique/questions-frequentes/quelle-regle-pour-communiquer-des-donnees-cadastrales.md)
         * [Adressage](readme/application-cartographique-vmap2/interface-bureautique/questions-frequentes/adressage.md)
         * [Listing des propriétaires de parcelles en zone OLD](readme/application-cartographique-vmap2/interface-bureautique/questions-frequentes/listing-des-proprietaires-de-parcelles-en-zone-old.md)
     * [Interface mobile](documentation-sig-data/application-cartographique-vmap2/interface-mobile/README.md)
