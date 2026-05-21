@@ -14,4 +14,14 @@ Une infobulle affiche alors avec la longueur au fur et à mesure.
 
 **Pour terminer la mesure, il faut double-cliquer sur la carte au moment du dernier point.**
 
-<figure><img src="../../../../.gitbook/assets/espace_outils_mesure.png" alt="" width="235"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/mesures.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### Profil altimétrique
+
+1. Tracer la ligne du profil altimétrique&#x20;
+2. Afficher les mesures&#x20;
+3. Cliquer sur Profil altimétrique en haut à droite
+
+<figure><img src="../../../../.gitbook/assets/mesures_profil_altimetrique.png" alt=""><figcaption></figcaption></figure>
