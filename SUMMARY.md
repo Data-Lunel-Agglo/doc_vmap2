@@ -18,6 +18,7 @@
         * [Requêteur](documentation-sig-data/application-cartographique-vmap2/interface-bureautique/fonctionnalites-de-la-carte/requeteur.md)
         * [Comparaison de cartes](documentation-sig-data/application-cartographique-vmap2/interface-bureautique/fonctionnalites-de-la-carte/comparaison-de-cartes.md)
         * [Impression](documentation-sig-data/application-cartographique-vmap2/interface-bureautique/fonctionnalites-de-la-carte/impression.md)
+        * [Itinéraire](readme/application-cartographique-vmap2/interface-bureautique/fonctionnalites-de-la-carte/itineraire.md)
       * [Module cadastre](readme/application-cartographique-vmap2/interface-bureautique/module-cadastre/README.md)
         * [Fiche descriptive](readme/application-cartographique-vmap2/interface-bureautique/module-cadastre/fiche-descriptive.md)
         * [Relevé de propriété](readme/application-cartographique-vmap2/interface-bureautique/module-cadastre/releve-de-propriete.md)
